@@ -11,7 +11,6 @@ A simple Java-based application to manage a car washing service business with **
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b1ad7e6-d2c7-4b02-b98f-5d0dd565a990" />
 
-```
 
 ### H2 Console
 ```
