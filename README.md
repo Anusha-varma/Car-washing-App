@@ -3,7 +3,6 @@
 
 A simple Java-based application to manage a car washing service business with **customers, cleaners, service packages, and subscriptions**.
 
----
 
 ## Screenshots
 
@@ -19,7 +18,8 @@ A simple Java-based application to manage a car washing service business with **
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c7e4168-b709-4d60-93bc-0345a997e63b" />
 
 ```
----
+
+
 ## Features
 
 * **Customer & Cleaner Management**
@@ -57,7 +57,6 @@ A simple Java-based application to manage a car washing service business with **
   * Cleaner performance
   * Area-wise service coverage
 
----
 
 ## Project Structure
 
@@ -80,7 +79,6 @@ src/main/java/org/example/
     ├── ServiceAvailabilityService.java
     └── ReportService.java
 
----
 
 ## Running the Application
 
@@ -102,7 +100,6 @@ javac -d target/classes src/main/java/org/example/**/*.java
 java -cp target/classes org.example.Main
 ```
 
----
 
 ## Main Menu
 
@@ -116,17 +113,4 @@ java -cp target/classes org.example.Main
 * Demo Bookings
 * Exit
 
----
-
-## Sample Data
-
-**Cleaners**
-
-* Downtown, Uptown, Suburbs
-
-**Customers**
-
-* Downtown, Uptown, Suburbs
-
----
 
