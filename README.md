@@ -61,7 +61,6 @@ A simple Java-based application to manage a car washing service business with **
 
 ## Project Structure
 
-```
 src/main/java/org/example/
 ├── Main.java
 ├── model/
@@ -80,7 +79,6 @@ src/main/java/org/example/
     ├── BookingService.java
     ├── ServiceAvailabilityService.java
     └── ReportService.java
-```
 
 ---
 
